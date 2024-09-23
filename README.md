@@ -1,9 +1,7 @@
-Here is the formatted content using markdown syntax:
-
 # MERN Stack
 
 ### Create a new EC2 Instance of t2.micro family with Ubuntu Server 24.04 LTS (HVM) image.
-Check my previous project where I showed how to provision your EC2 Instance.
+Check my previous project where I showed how to provision your EC2 Instance. [LEMPstack Server](https://github.com/yourtechie/lempstack-project)
 
 **Hint #1**: When you create your EC2 Instances, you can add a Tag "Name" to it with a value that corresponds to a current project you are working on - it will be reflected in the name of the EC2 Instance.
    ![](images/1.png)
